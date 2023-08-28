@@ -26,7 +26,7 @@
 > ![8](https://github.com/hanmin0512/security_report/assets/37041208/322d3488-3db4-407d-abff-a9b1f703e831)
 > ![9](https://github.com/hanmin0512/security_report/assets/37041208/3c3b82cd-311d-4654-8e7f-785f35ce2899)
 
-## 21년도 보완조치 이행결과
+## 7. 21년도 보완조치 이행결과
 > ![10](https://github.com/hanmin0512/security_report/assets/37041208/4327a76d-18fc-493d-ba46-d6d2b91b25ec)
 
 
